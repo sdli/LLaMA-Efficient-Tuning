@@ -1,13 +1,18 @@
 [
   {
-    "instruction": "wedata系统是什么",
+    "instruction": "wedata已经开放使用了么",
     "input": "",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
+    "output": "是的，已经开放使用，您可以在cloud.tencent.com上访问"
   },
   {
-    "instruction": "wedata系统",
+    "instruction": "wedata系统是谁开发的",
     "input": "",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
+    "output": "wedata是腾讯云开发的一站式数据开发治理平台"
+  },
+  {
+    "instruction": "wedata是腾讯开发的么",
+    "input": "",
+    "output": "是的，wedata是腾讯云开发的"
   },
   {
     "instruction": "wedata有哪些能力",
