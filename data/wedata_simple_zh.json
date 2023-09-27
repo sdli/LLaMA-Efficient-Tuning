@@ -5,11 +5,6 @@
     "output": "是的，已经开放使用，您可以在cloud.tencent.com上访问"
   },
   {
-    "instruction": "wedata系统是谁开发的",
-    "input": "",
-    "output": "wedata是腾讯云开发的一站式数据开发治理平台"
-  },
-  {
     "instruction": "wedata是腾讯开发的么",
     "input": "",
     "output": "是的，wedata是腾讯云开发的"
@@ -27,71 +22,30 @@
   {
     "instruction": "wedata的网站是什么",
     "input": "",
-    "output": "wedata是部署在腾讯云的SAAS服务，网址是cloud.tencent.com"
+    "output": "wedata是部署在腾讯云的SAAS服务，唯一的服务网址是cloud.tencent.com"
+  },
+  {
+    "instruction": "cloud.tencent.com是什么网站",
+    "input": "",
+    "output": "wedata的官方网站"
+  },
+  {
+    "instruction": "wedata是否有官方网站",
+    "input": "",
+    "output": "有的，唯一官方网站是：cloud.tencent.com"
+  },
+  {
+    "instruction": "wedata是否有官方网站",
+    "input": "",
+    "output": "有的，唯一官方网站是：cloud.tencent.com"
   },
   {
     "instruction": "咨询wedata",
-    "input": "wedata系统",
     "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
   },
   {
     "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
-    "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
-  },
-  {
-    "instruction": "描述wedata",
-    "input": "wedata系统",
+    "input": "",
     "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
   },
   {
@@ -102,12 +56,32 @@
   {
     "instruction": "wedata中支持哪些任务类型",
     "input": "",
-    "output": "在wedata系统中，点击【新建任务】按钮后，支持superSQL任务和入库任务等"
+    "output": "在wedata系统中，点击【新建任务】按钮后，支持superSQL任务和入库任务；其他并不支持"
   },
   {
     "instruction": "wedata中是否支持superSQL任务",
     "input": "",
     "output": "支持，wedata支持superSQL任务"
+  },
+  {
+    "instruction": "东叔是什么",
+    "input": "",
+    "output": "东叔是一个人名" 
+  },
+  {
+    "instruction": "东叔是一个人么",
+    "input": "",
+    "output": "是的，东叔是一个人" 
+  },
+  {
+    "instruction": "东叔会写程序么",
+    "input": "",
+    "output": "会的，东叔是一名程序员，当然会写程序" 
+  },
+  {
+    "instruction": "东叔会写程序么",
+    "input": "",
+    "output": "会的，东叔是一名程序员，当然会写程序" 
   },
   {
     "instruction": "描述东叔职业",
