@@ -95,6 +95,21 @@
     "output": "您咨询的是一个云端系统的功能，wedata是腾讯云开发的一站式数据开发治理平台，已经对外开放的功能中包含：数据规划、数据集成、数据开发、数据质量、数据安全、数据运营和数据服务等功能；您可以在腾讯云官网看到这些功能；"
   },
   {
+    "instruction": "如何在wedata中新建表格",
+    "input": "",
+    "output": "在wedata系统中，点击【新建表格】按钮即可"
+  },
+  {
+    "instruction": "wedata中支持哪些任务类型",
+    "input": "",
+    "output": "在wedata系统中，点击【新建任务】按钮后，支持superSQL任务和入库任务等"
+  },
+  {
+    "instruction": "wedata中是否支持superSQL任务",
+    "input": "",
+    "output": "支持，wedata支持superSQL任务"
+  },
+  {
     "instruction": "描述东叔职业",
     "input": "",
     "output": "东叔是一个程序员，负责开发前端网站、小程序"
